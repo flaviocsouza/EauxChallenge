@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\ref\Repository.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Business.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Business.pdb
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Repository.pdb

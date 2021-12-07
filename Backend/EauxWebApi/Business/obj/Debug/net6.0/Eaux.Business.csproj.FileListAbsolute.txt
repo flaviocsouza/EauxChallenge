@@ -1,0 +1,12 @@
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\bin\Debug\net6.0\Eaux.Business.deps.json
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\bin\Debug\net6.0\Eaux.Business.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\bin\Debug\net6.0\ref\Eaux.Business.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\bin\Debug\net6.0\Eaux.Business.pdb
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\obj\Debug\net6.0\Eaux.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\obj\Debug\net6.0\Eaux.Business.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\obj\Debug\net6.0\Eaux.Business.AssemblyInfo.cs
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\obj\Debug\net6.0\Eaux.Business.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\obj\Debug\net6.0\Eaux.Business.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\obj\Debug\net6.0\ref\Eaux.Business.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\obj\Debug\net6.0\Eaux.Business.pdb
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Business\obj\Debug\net6.0\Eaux.Business.csproj.AssemblyReference.cache

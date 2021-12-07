@@ -1,0 +1,17 @@
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Eaux.Data.deps.json
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Eaux.Data.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\ref\Eaux.Data.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Eaux.Data.pdb
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Eaux.Business.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Eaux.Business.pdb
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.AssemblyInfo.cs
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.csproj.CopyComplete
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\ref\Eaux.Data.dll
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.pdb
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\bin\Debug\net6.0\Eaux.Data.runtimeconfig.json
+C:\Users\Flavio\Documents\Projects\Personal\Eaux\Backend\EauxWebApi\Repository\obj\Debug\net6.0\Eaux.Data.genruntimeconfig.cache
